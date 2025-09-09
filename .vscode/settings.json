@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "*.pl": "properties",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "ostream": "cpp"
     }
 }
